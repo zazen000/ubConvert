@@ -69,7 +69,7 @@ ubConvert Unit Conversion Classes -
         light_years_to_miles(lt_years, 0, 1) = 11,758,000,000,000
 
 
- Functions List by Class: 
+ Functions List by Class 
  NOTE- We use all lower case when calling functions, right? RIGHT?
 
     - Temperatures() function list
