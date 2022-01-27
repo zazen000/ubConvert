@@ -17,7 +17,7 @@ ubConvert Unit Conversion Classes -
 
  ..................................................................
 
- *** Sample usage: ***
+ Sample usage:
 
 
     import ubConvert as ub
