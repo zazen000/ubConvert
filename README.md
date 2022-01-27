@@ -17,14 +17,14 @@ ubConvert Unit Conversion Classes -
 
  ..................................................................
 
-   *** Sample usage: ***
+ *** Sample usage: ***
 
 
-   import ubConvert as ub
+    import ubConvert as ub
 
-   weight = ub.Weights()
-   ounces = weight.grams_to_ounces(28)
-   ounces = 1
+    weight = ub.Weights()
+    ounces = weight.grams_to_ounces(28)
+    ounces = 1
 
  ..................................................................
 
